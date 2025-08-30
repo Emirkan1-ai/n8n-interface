@@ -24,7 +24,7 @@ const instances: N8nInstance[] = [
   {
     id: 'emirkan',
     name: 'Emirkan Tekin Instance',
-    description: 'Development and testing workflows',
+    description: 'Personal automation workflows',
     url: 'https://emirkan-tekin-n8n.zk-ai.agency',
     icon: '💻'
   }
